@@ -1,2 +1,4 @@
 # xray_project
-xray lungs cancer nodule detections using matlab
+Detecting if person has cancer nodules and if there is how many nodules are there from their lung x-ray's.
+
+Inorder to get inputs you must use .png extention on your files and names such as "input1.png" (number can be changed). 
